@@ -43,10 +43,6 @@ fun main() {
         acertada.append("*")
         }
 
-    // Borrar
-    println(palabra)
-    println(numero+1)
-
     //Bucle mentras haxa intentos
     while (intentos>0) {
 
